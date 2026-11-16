@@ -31,4 +31,5 @@ bin/
 
 *.idea/
 out/
-*.iml
+*.iml/
+.gigaide/
